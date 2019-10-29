@@ -1,0 +1,7 @@
+- Import Image
+- Set Scale
+- Tools
+    - Count
+    - Perimeter
+    - Area
+- Zoom
